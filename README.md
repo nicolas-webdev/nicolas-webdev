@@ -63,7 +63,7 @@
 ### 🀄 Professional Mahjong Player &nbsp;×&nbsp; 💻 Software Engineer
 
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![Twitter](https://img.shields.io/badge/@__xkime-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_xkime)
+[![Twitter](https://img.shields.io/badge/@_nikorasu_pro-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nikorasu_pro)
 [![Portfolio](https://img.shields.io/badge/nikorasu.pro-C6AE6F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikorasu.dev)
 [![NPMahjong](https://img.shields.io/badge/NPMahjong-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://npmahjong.com)
 
@@ -179,7 +179,7 @@ Competing in professional mahjong leagues by night.
 
 | Platform | Handle |
 |:--------:|:------:|
-| 𝕏 Twitter | [@_xkime](https://twitter.com/_xkime) |
+| 𝕏 Twitter | [@nikorasu_pro](https://twitter.com/nikorasu_pro) |
 | 🌐 Website | [nikorasu.pro](https://nikorasu.pro) |
 | 🀄 Mahjong | [npmahjong.com](https://npmahjong.com) |
 | ☕ Patreon | [NPMahjong](https://www.patreon.com/xkime) |
