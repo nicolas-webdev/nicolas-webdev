@@ -63,7 +63,7 @@
 ### 🀄 Professional Mahjong Player &nbsp;×&nbsp; 💻 Software Engineer
 
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![Twitter](https://img.shields.io/badge/@nikorasu_pro-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nikorasu_pro)
+[![Twitter](https://img.shields.io/badge/@nikorasu__pro-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nikorasu_pro)
 [![Portfolio](https://img.shields.io/badge/nikorasu.pro-C6AE6F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikorasu.dev)
 [![NPMahjong](https://img.shields.io/badge/NPMahjong-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://npmahjong.com)
 
