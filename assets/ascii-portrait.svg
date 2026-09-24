@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="575" viewBox="0 0 720 575" role="img" aria-labelledby="title desc">
+  <title id="title">ASCII portrait of Nicolas Ishihara</title>
+  <desc id="desc">A responsive monospace rendering of Nicolas Ishihara's original ASCII self-portrait.</desc>
+  <style>
+    .portrait { fill: #9a6f19; }
+    @media (prefers-color-scheme: dark) {
+      .portrait { fill: #e3bd64; }
+    }
+  </style>
+  <text class="portrait" x="8" y="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="8.8" xml:space="preserve">
+    <tspan x="8" dy="0">                                                                                                    </tspan>
+    <tspan x="8" dy="10.4">                     @@                                                                           @ </tspan>
+    <tspan x="8" dy="10.4">                                                                                                  @ </tspan>
+    <tspan x="8" dy="10.4">                            @@                                                                    @ </tspan>
+    <tspan x="8" dy="10.4">                                @@                                                                @ </tspan>
+    <tspan x="8" dy="10.4">                                                                                                  @ </tspan>
+    <tspan x="8" dy="10.4">                                   @        @@@@@@@@@@@@                                          @ </tspan>
+    <tspan x="8" dy="10.4">                                         @@@@@@@@@@@@@@@@@@                                      @  </tspan>
+    <tspan x="8" dy="10.4">                                    @@@@@@@@@@@       @@@@@@@                                   @@  </tspan>
+    <tspan x="8" dy="10.4">                                  @@@@@@@@               @@@@@                                 @@   </tspan>
+    <tspan x="8" dy="10.4">                                @@@@@@                  @@@@@@@@                              @     </tspan>
+    <tspan x="8" dy="10.4">                              @@@@@@     @@     @           @@@@@@                           @      </tspan>
+    <tspan x="8" dy="10.4">      @@                     @@@@@    @@@@@                   @@@@@                         @       </tspan>
+    <tspan x="8" dy="10.4">                             @@@    @@@@@@@@@@    @             @@@@                                </tspan>
+    <tspan x="8" dy="10.4">     @@                      @@@   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@                                </tspan>
+    <tspan x="8" dy="10.4">                            @@@@@  @@@@@@  @@@@@@@@@@@@@@@@@@@@@@@@@                                </tspan>
+    <tspan x="8" dy="10.4">    @@                      @@@@@   @@@@@         @@@@@@@@@@@@@@@ @@                   @@@          </tspan>
+    <tspan x="8" dy="10.4">                            @@  @   @@@@@                    @@@@ @@                 @              </tspan>
+    <tspan x="8" dy="10.4"> @@@@@ @@                   @@ @@   @@@@@  @@@@@@@            @@@ @@                                </tspan>
+    <tspan x="8" dy="10.4">                            @@@@@ @@@@@@  @@@@@@@@@@@    @@@@@@@@@@@                                </tspan>
+    <tspan x="8" dy="10.4">                            @@@@@@@@@@    @  @@@@@@@@@ @@@@@@@@@@@@                                 </tspan>
+    <tspan x="8" dy="10.4"> @@@ @@@@@@                  @@@@@@@@    @@ @@  @@@@@@@@@@@@@@@@ @@                                 </tspan>
+    <tspan x="8" dy="10.4">                            @   @@@@@     @@@@@@@@@@@@@@@@@@@@@@@@@                                 </tspan>
+    <tspan x="8" dy="10.4"> @@@@@@@@@@@                @   @@@@        @@@@@@@   @@@@@@@@@ @@@                                 </tspan>
+    <tspan x="8" dy="10.4">                            @                         @@@@@@@@@@@@                                  </tspan>
+    <tspan x="8" dy="10.4">  @@                         @ @@                 @@@@@@@ @  @@ @@                                  </tspan>
+    <tspan x="8" dy="10.4"> @  @                         @@@@                @@@@@@@@@@ @@ @@                        @@ @@@@@@ </tspan>
+    <tspan x="8" dy="10.4">                               @ @                @@  @@@@@@@@@ @   @@@@@@@             @           </tspan>
+    <tspan x="8" dy="10.4">                                           @@@@@@@@   @@@ @@@@ @@                     @@@           </tspan>
+    <tspan x="8" dy="10.4">    @                                                 @@@  @  @@                     @@             </tspan>
+    <tspan x="8" dy="10.4">   @                                @@@     @@@@   @@@@@  @  @@                    @@               </tspan>
+    <tspan x="8" dy="10.4"> @                                @  @@@@       @@@@@@  @   @@                   @@@                </tspan>
+    <tspan x="8" dy="10.4">                               @@@ @@  @@@@@     @@@@@@@@  @@                    @                  </tspan>
+    <tspan x="8" dy="10.4">                              @@@@  @@   @@@@@@@@@  @@ @@ @@@                                       </tspan>
+    <tspan x="8" dy="10.4">           @@@@@  @@     @@@ @@@@    @@@   @@@@@@@@@@@@@@@@@                   @                    </tspan>
+    <tspan x="8" dy="10.4">                            @@@@@@    @@@@@@   @@@@@@@@  @@@                 @@                     </tspan>
+    <tspan x="8" dy="10.4">           @@@@  @@@@     @@@@@@@@      @@@@@@@@@@   @ @@@@@@              @@                       </tspan>
+    <tspan x="8" dy="10.4">                         @@@@   @@@         @@@@@@@@@@@@@  @@@@                                     </tspan>
+    <tspan x="8" dy="10.4">    @@                @@@@@@ @  @@@             @@@@@@@@    @@@@@@@                                 </tspan>
+    <tspan x="8" dy="10.4">                @@@@@@@@@@@  @   @@@            @@@@@@@@     @@@@@@@@@@@             @@@@@          </tspan>
+    <tspan x="8" dy="10.4">        @   @@@@@@@@@@@@          @@@             @ @@@         @@@@@@@@@@@@@@                      </tspan>
+    <tspan x="8" dy="10.4">       @@@@@@@@@@@                 @@@@          @ @@@                @@@@@@@@@@@@   @@@            </tspan>
+    <tspan x="8" dy="10.4">    @@@@@@@@@                      @@@ @       @@ @@@@                       @@@@@@@@@      @       </tspan>
+    <tspan x="8" dy="10.4">  @@@@@@@                @          @@@ @        @@@@                           @@@@@@@  @ @ @      </tspan>
+    <tspan x="8" dy="10.4"> @@@@                    @ @         @@@@@       @@@                                @@@@     @      </tspan>
+    <tspan x="8" dy="10.4"> @                       @ @         @@@@@@     @@@                                   @@@           </tspan>
+    <tspan x="8" dy="10.4">                           @          @@@ @@@  @@@@            @                       @@@          </tspan>
+    <tspan x="8" dy="10.4">                          @@           @@@    @@@@             @ @                      @@@         </tspan>
+    <tspan x="8" dy="10.4">                          @            @@@@   @@@              @ @                      @@@@        </tspan>
+    <tspan x="8" dy="10.4">                          @             @@@  @@@@              @ @                       @@@@       </tspan>
+    <tspan x="8" dy="10.4">                                        @@@ @@@@               @ @                        @@@@      </tspan>
+    <tspan x="8" dy="10.4">                                         @@@@@@                @                           @@@@     </tspan>
+    <tspan x="8" dy="10.4">      @                                   @@@@@                @                            @@@@    </tspan>
+    <tspan x="8" dy="10.4">      @                                   @@@@                                           @  @@@@    </tspan>
+    <tspan x="8" dy="10.4">                                                                                                    </tspan>
+  </text>
+</svg>
